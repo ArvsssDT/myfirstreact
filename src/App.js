@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-            Edit <code>src/App.js</code> and save to reload. Gusto ko na manood ng latest episode ng GP 999 
+            Gusto ko na manood ng latest episode ng GP 999
+            https://www.iq.com/play/girls-planet-999-12199gfpr0x?frmrp=home&frmb=R:37824992012&frmrs=1
         </p>
         <a
           className="App-link"
