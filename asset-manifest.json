@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ArvsssDT/myfirstreact/static/css/main.46f340bd.chunk.css",
+    "main.js": "/ArvsssDT/myfirstreact/static/js/main.825b2d74.chunk.js",
+    "main.js.map": "/ArvsssDT/myfirstreact/static/js/main.825b2d74.chunk.js.map",
+    "runtime-main.js": "/ArvsssDT/myfirstreact/static/js/runtime-main.d6911003.js",
+    "runtime-main.js.map": "/ArvsssDT/myfirstreact/static/js/runtime-main.d6911003.js.map",
+    "static/js/2.278db9fa.chunk.js": "/ArvsssDT/myfirstreact/static/js/2.278db9fa.chunk.js",
+    "static/js/2.278db9fa.chunk.js.map": "/ArvsssDT/myfirstreact/static/js/2.278db9fa.chunk.js.map",
+    "static/js/3.9d3e767b.chunk.js": "/ArvsssDT/myfirstreact/static/js/3.9d3e767b.chunk.js",
+    "static/js/3.9d3e767b.chunk.js.map": "/ArvsssDT/myfirstreact/static/js/3.9d3e767b.chunk.js.map",
+    "index.html": "/ArvsssDT/myfirstreact/index.html",
+    "static/css/main.46f340bd.chunk.css.map": "/ArvsssDT/myfirstreact/static/css/main.46f340bd.chunk.css.map",
+    "static/js/2.278db9fa.chunk.js.LICENSE.txt": "/ArvsssDT/myfirstreact/static/js/2.278db9fa.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ArvsssDT/myfirstreact/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6911003.js",
+    "static/js/2.278db9fa.chunk.js",
+    "static/css/main.46f340bd.chunk.css",
+    "static/js/main.825b2d74.chunk.js"
+  ]
+}
