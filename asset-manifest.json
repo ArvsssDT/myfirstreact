@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/myfirstreact/static/css/main.46f340bd.chunk.css",
-    "main.js": "/myfirstreact/static/js/main.d507d86f.chunk.js",
-    "main.js.map": "/myfirstreact/static/js/main.d507d86f.chunk.js.map",
+    "main.css": "/myfirstreact/static/css/main.d1fef8c3.chunk.css",
+    "main.js": "/myfirstreact/static/js/main.3f56e747.chunk.js",
+    "main.js.map": "/myfirstreact/static/js/main.3f56e747.chunk.js.map",
     "runtime-main.js": "/myfirstreact/static/js/runtime-main.f8ba7d83.js",
     "runtime-main.js.map": "/myfirstreact/static/js/runtime-main.f8ba7d83.js.map",
     "static/js/2.278db9fa.chunk.js": "/myfirstreact/static/js/2.278db9fa.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.9d3e767b.chunk.js": "/myfirstreact/static/js/3.9d3e767b.chunk.js",
     "static/js/3.9d3e767b.chunk.js.map": "/myfirstreact/static/js/3.9d3e767b.chunk.js.map",
     "index.html": "/myfirstreact/index.html",
-    "static/css/main.46f340bd.chunk.css.map": "/myfirstreact/static/css/main.46f340bd.chunk.css.map",
+    "static/css/main.d1fef8c3.chunk.css.map": "/myfirstreact/static/css/main.d1fef8c3.chunk.css.map",
     "static/js/2.278db9fa.chunk.js.LICENSE.txt": "/myfirstreact/static/js/2.278db9fa.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/myfirstreact/static/media/logo.6ce24c58.svg"
+    "static/media/logo.61bf8e5c.svg": "/myfirstreact/static/media/logo.61bf8e5c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f8ba7d83.js",
     "static/js/2.278db9fa.chunk.js",
-    "static/css/main.46f340bd.chunk.css",
-    "static/js/main.d507d86f.chunk.js"
+    "static/css/main.d1fef8c3.chunk.css",
+    "static/js/main.3f56e747.chunk.js"
   ]
 }
