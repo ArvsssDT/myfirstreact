@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" border-radius: 50%; alt="logo">
+        <img src={logo} className="App-logo" border-radius="50%" alt="logo">
         <p>
            Nood tayo ng GP 999. Please Vote Kim Bo Ra(김보라)
         </p>
