@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
+import Greet from './Greet';
 
+import Button from './Button';
 function App() {
   return (
     <div className="App">
@@ -10,6 +12,8 @@ function App() {
         
         <img src="https://preview.redd.it/zgm7refzy4i71.jpg?width=400&format=pjpg&auto=webp&s=4003130d67dec9fe2264ef3b02a36cfd1d32a6b2" className="App-logo" alt="logo" />
         <p>
+
+        <Greet/>
         <h1>Let's 
           <a
           className="App-link"
@@ -29,9 +33,12 @@ function App() {
         <iframe width="852" height="480" src="https://www.youtube.com/embed/gd4X22ZvYzQ" title="YouTube video player" 
         frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
         </iframe>
+
+        &nbsp;
+
+        <Button/>
+        &nbsp;
         
-         &nbsp;
-         
       </header>
     </div>
   );
