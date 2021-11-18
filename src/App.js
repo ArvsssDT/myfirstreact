@@ -1,8 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
-import Greet from './Greet';
+import Greet from './components/Greet';
+import Button from './components/Button';
+import Hello from './components/Hello';
+import Message from './components/Message';
+import Employee from './components/Employee';
 
-import Button from './Button';
 function App() {
   return (
     <div className="App">
@@ -10,33 +12,43 @@ function App() {
       
         &nbsp;&nbsp;&nbsp;
         
-        <img src="https://preview.redd.it/zgm7refzy4i71.jpg?width=400&format=pjpg&auto=webp&s=4003130d67dec9fe2264ef3b02a36cfd1d32a6b2" className="App-logo" alt="logo" />
+        <img src="https://ih1.redbubble.net/image.919133172.0514/st,small,507x507-pad,600x600,f8f8f8.jpg" className="App-logo" alt="logo" />
         <p>
 
-        <Greet/>
-        <h1>Let's
+        <Greet greeter = "Greetings, " name = "Visitor"/>
+          <h2>Let's support 
           <a
           className="App-link"
-          href="https://www.iq.com/play/girls-planet-999-2021-08-06-o1ewubywr0?frmrp=home&frmb=R:37824992012&frmrs=1"
+          href="https://www.youtube.com/c/CherryBulletofficial"
           target="_blank"
           rel="noopener noreferrer"
-          > Watch GP 999</a>!😄</h1>
+          > Cherry Bullet</a>🍒</h2>
         </p>
 
-        <iframe width="852" height="480" src="https://www.youtube.com/embed/-BJtXwBt8YY" title="YouTube video player"
-        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-         </iframe>
+        <Greet greeter = "Hello, "name = "New Lullet"/>
+         <Message/> 
+        <iframe width="852" height="480" src="https://www.youtube.com/embed/9OZPwJdl_4w" title="YouTube video player" 
+        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen></iframe>
          
         &nbsp;
-        
-         <h3> Please Vote Kim Bo Ra(김보라)🙏</h3>
-        <iframe width="852" height="480" src="https://www.youtube.com/embed/gd4X22ZvYzQ" title="YouTube video player" 
-        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-        </iframe>
+
+        <Greet greeter = "Hello, "name = "Lullet"/>
+          <Message/> 
+                
+        <iframe width="852" height="480" src="https://www.youtube.com/embed/0It6vWbGOX0" title="YouTube video player" 
+        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen></iframe>
 
         &nbsp;
 
+        <p>{Hello()}
+        </p>
+
         <Button/>
+
+        <Employee/>
+
         &nbsp;
         
       </header>
