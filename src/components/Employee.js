@@ -29,7 +29,7 @@ const Employee = () => {
                     <tr>
                         <td>Name</td>          
                         <td>Nickname</td>
-                        <td>Role/s</td>
+                        <td>Roles</td>
                     </tr>
                     {
                         employees.map(
