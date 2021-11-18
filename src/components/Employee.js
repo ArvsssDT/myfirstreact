@@ -28,16 +28,16 @@ const Employee = () => {
                 <table border ="1">
                     <tr>
                         <td>Name</td>          
-                        <td>Location</td>
-                        <td>Department</td>
+                        <td>Nickname</td>
+                        <td>Role/s</td>
                     </tr>
                     {
                         employees.map(
                             employee => (
                                 <tr>
                                     <td>{employee.name}</td>          
-                                    <td>{employee.location}</td>
-                                    <td>{employee.department}</td>
+                                    <td>{employee.nickname}</td>
+                                    <td>{employee.roles}</td>
                                 </tr>
                             )
                         )
