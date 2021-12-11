@@ -1,6 +1,3 @@
-const Message = () => {
-    return <p>You might like this MV!</p>
-    
-}
+const Message = () => <p>You might like this MV!</p>
 
 export default Message
