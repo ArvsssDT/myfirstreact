@@ -10,6 +10,7 @@ const Router = () =>{
         <div>
             <BrowserRouter>
                 <Routes>
+                    <Route exact path="https://ics2608-myfirstreact.herokuapp.com" element={<Home/>}/>
                     <Route exact path="/myfirstreact" element={<Home/>}/>
                     <Route exact path="/myfirstreact/employees" element={<Employee/>}/>
                     <Route exact path="/myfirstreact/add" element={<AddEmployee/>}/>
