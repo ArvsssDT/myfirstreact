@@ -6,7 +6,7 @@ const NavBar =() =>{
                     <a class="navbar-brand" href="#">ICS2608</a>
                         <div class="collapse navbar-collapse" id="navbarNavSupportedContent">
                             <div className="navbar-nav" id="navbarNavAltMarkup">
-                            <a class="nav-link" href="/myfirstreact">Home</a>
+                            <a class="nav-link" aria-current="page" href="/myfirstreact">Home</a>
                             <a class="nav-link" href="/myfirstreact/employees">Employees</a>
                             <a class="nav-link" href="/myfirstreact/add">Add Employees</a>
                             <a class="nav-link" href="/myfirstreact/employees">Edit Employee</a>
