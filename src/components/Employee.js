@@ -44,7 +44,7 @@ const Employee = () => {
         <div className="container">
             <h3>List of Cherry Bullet Members🍒</h3>
             <div>
-                <Link to="/add" className="btn btn-primary mb-2">Add Employees</Link>
+                <Link to="/myyfirstreact/add" className="btn btn-primary mb-2">Add Employees</Link>
                 <table className="table table-hover table-light  table-stripped" >
                     <thead>
                     <tr className="table-danger">
