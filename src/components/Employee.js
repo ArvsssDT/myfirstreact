@@ -64,7 +64,7 @@ const Employee = () => {
                                     <td>{employee.roles}</td>
                                     <td>
                                         <div class="d-grid gap-2 d-md-flex justify-content-md-center">
-                                            <Link className="btn btn-primary" to={`/edit/${employee.employee_id}`}>Update</Link>
+                                            <Link className="btn btn-primary" to={`/myfirstreact/edit/${employee.employee_id}`}>Update</Link>
                                             <button className="btn btn-danger" onClick={(e) => deleteEmployee(employee.employee_id)}>Delete</button>
                                         </div>
 

@@ -20,7 +20,7 @@ const AddEmployee = () => {
             EmployeeService.putEmployee(employee) //promise
             .then(response => {
                 console.log("Employee updated!");
-                navigate("/employees");
+                navigate("/myfirstreact/employees");
             })
             .catch(error =>{
                 console.log("Something went wrong!")
@@ -31,7 +31,7 @@ const AddEmployee = () => {
             EmployeeService.postEmployee(employee) //promise
             .then(response => {
                 console.log("Employee added!");
-                navigate("/employees");
+                navigate("/myfirstreact/employees");
             })
             .catch(error =>{
                 console.log("Something went wrong!")
